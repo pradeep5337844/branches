@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:18.04
 MAINTAINER Rakshitha <rakshithapapu7@gmail.com>
 RUN apt-get update -y
 RUN apt-get install nginx -y
@@ -8,3 +8,4 @@ COPY bootstrap.min.css /var/www/html/
 COPY rakshitha.jpg /var/www/html/
 EXPOSE 80
 CMD ["nginx","-g","daemon off;"]
+s
