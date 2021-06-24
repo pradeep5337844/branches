@@ -2,3 +2,4 @@ Dockerfile merge=foo
 Dockerfile merge=foo
 Readme.txt.txt merge=foo
 config.xml merge=foo
+xoriant.xml merge=foo
