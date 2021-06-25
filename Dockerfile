@@ -1,4 +1,4 @@
-FROM ubuntupradeep
+FROM ubuntu
 MAINTAINER pradeep <rakshithapapu7@gmail.com>
 RUN apt-get update -y
 RUN apt-get install nginx -y
