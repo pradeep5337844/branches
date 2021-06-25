@@ -1,0 +1,4 @@
+testconf/conf.xml merge=ours
+testconf/map.xml merge=ours
+Dockerfile merge=ours
+Jenkinsfile merge=ours
