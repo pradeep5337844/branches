@@ -1,4 +1,4 @@
-pipeline123 {
+pipeline {
 environment {
 registry = "rakshithapapu7/portfolio-site"
 registryCredential = 'rakshithapapu7'
