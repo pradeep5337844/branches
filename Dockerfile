@@ -1,5 +1,5 @@
-FROM ubuntu:19.04
-MAINTAINER Rakshitha <rakshithapapu7@gmail.com>
+FROM ubuntupradeep
+MAINTAINER pradeep <rakshithapapu7@gmail.com>
 RUN apt-get update -y
 RUN apt-get install nginx -y
 COPY index.html /var/www/html/
