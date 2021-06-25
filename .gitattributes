@@ -1,0 +1,15 @@
+Jenkinsfile merge=foo
+Dockerfile merge=foo
+testconf/** merge=foo
+config.xml merge=foo
+xoriant.xml merge=foo
+pradeep5337844/branches/testconf/** merge=foo
+/pradeep5337844/branches/testconf/** merge=foo
+branches/testconf/** merge=foo
+/branches/testconf merge=foo
+testconf/conf.xml merge=foo
+/testconf/conf.xml merge=foo
+/testconf/** merge=foo
+testconf/** merge=foo
+testconf/map.xml merge=foo
+/testconf/map.xml merge=foo
